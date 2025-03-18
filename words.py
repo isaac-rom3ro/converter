@@ -1,4 +1,6 @@
 class WordNumbers:
+    #for this one i prefer not comment or explain yet
+    #ill refactor everything in a simple way before do it ;)
     def __init__(self, number):
         self.number = number
         self.tensValue = 10
